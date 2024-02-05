@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Seongsu. Thank you for stopping by! 👋
 
-I am currently a second-year integrated Ph.D. student in the [Aritificial Intelligence department](https://ai.postech.ac.kr/) at Pohang University of Science and Technology [(POSTECH)](https://postech.ac.kr/eng/)! I am also a member of [ML lab]((https://ml.postech.ac.kr/)), where my supervisor is Prof. Sungsoo Ahn.
+I am currently a second-year integrated Ph.D. student in the [Aritificial Intelligence department](https://ai.postech.ac.kr/) at Pohang University of Science and Technology [(POSTECH)](https://postech.ac.kr)! I am also a member of [ML lab]((https://ml.postech.ac.kr/)), where my supervisor is Prof. Sungsoo Ahn.
 
 My research interests include integrating AI into scientific research and using AI to uncover scientific facts. Also I am intertested in physical and chemical concepts like solid state physics, simulation dynamics and molecular science, and also mathematical concepts like group theory and geometry. Recently, I am focusing on intergrating [Geometrical Deep Learning](https://geometricdeeplearning.com/) into the molecular science.
 
