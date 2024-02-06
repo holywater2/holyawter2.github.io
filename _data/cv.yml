@@ -17,15 +17,49 @@
       description:
         - Aritificial Intelignece department
     - title: Bachelor of Science
-      institution: Gwangju Institute of the Science and Technology , Gwangju, Korea
+      institution: Gwangju Institute of the Science and Technology (GIST), Gwangju, Korea
       year: 2016 - 2023
       description:
-        - Major in Physics.
+        - title: Major in Physics.
+          contents:
+            - Statistical and solid state physics
+            - Long-range interation in Ising model
+            - Monte Carlo Simulation
         - Minor in Electric Engineering and Computer Science (EECS) and Mathematics
 
 - title: Experience
+  type: time_table  
+  contents:
+    - title : Machine Learning Lab
+      institution: Pohang institute of the Science and Technology (POSTECH), Pohang, Korea
+      year: 2023 - Now
+      description:
+        - Conducting reserches invovled in Geometrical Deep Learning and AI for science
+        
+    - title: Lab of Computational Many-body Physics
+      institute: Gwangju Institute of the Science and Technology (GIST), Gwangju, Korea
+      year: 2021-2022
+      description:
+        - Expolring the critical phenomena of two dimensional anisotropy antiferromagnetic long range Ising model by Monte Carlo simulation.
+
+    - title: Statistical Artificial Intelligence Lab
+    - institute: Korea Advanced Institute of Science and Technology (KAIST), Daejon, Korea
+      description:
+        - Studied the various techniques of explainable A.I. including LIMES, LRP, CRP, and GRAD-CAM
+
+    - title: Mandatory Military Service
+      institution: Yangu, Korea
+      year: 2020 - 2021
+
+    - title: Lab of Quantum Field & Gravity theory group
+      institute: Gwangju Institute of the Science and Technology (GIST), Gwangju, Korea
+      year: 2019 - 2020
+      description:
+        - Participated in a project involved in Deep learning and the AdS/CFT correspondence.
+  
+- title: Honors and Awards
   type: time_table
   contents:
-    - title: Mandatory Military Service
-      institution: Korea
-      year: 2020 - 2021
+    - year: 2022
+      items:
+        - ACM-ICPC SEOUL REGIONAL(main contest of Korea), Rank 28 / 71
