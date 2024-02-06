@@ -38,23 +38,23 @@
         - Conducting reserches invovled in Geometrical Deep Learning and AI for science
 
     - title: Lab of Computational Many-body Physics
-      institute: Gwangju Institute of the Science and Technology (GIST), Gwangju, Korea
+      institution: Gwangju Institute of the Science and Technology (GIST), Gwangju, Korea
       year: 2021-2022
       description:
         - Expolring the critical phenomena of two dimensional anisotropy antiferromagnetic long range Ising model by Monte Carlo simulation.
 
     - title: Statistical Artificial Intelligence Lab
-      institute: Korea Advanced Institute of Science and Technology (KAIST), Daejon, Korea
+      institution: Korea Advanced Institute of Science and Technology (KAIST), Daejon, Korea
       year: 2022
       description:
         - Studied the various techniques of explainable A.I. including LIMES, LRP, CRP, and GRAD-CAM
 
     - title: Mandatory Military Service
-      institution: Yangu, Korea
+      # institution: Yangu, Korea
       year: 2020 - 2021
 
     - title: Lab of Quantum Field & Gravity theory group
-      institute: Gwangju Institute of the Science and Technology (GIST), Gwangju, Korea
+      institution: Gwangju Institute of the Science and Technology (GIST), Gwangju, Korea
       year: 2019 - 2020
       description:
         - Participated in a project involved in Deep learning and the AdS/CFT correspondence.
