@@ -12,13 +12,13 @@
   type: time_table
   contents:
     - title: Intergrated PhD course
-      institution: Pohang institute of the Science and Technology (POSTECH), Pohang, Korea
+      institution: POSTECH, Pohang, Korea
       year: 2023 - Now
       description:
         - Aritificial Intelignece department
 
     - title: Bachelor of Science
-      institution: Gwangju Institute of the Science and Technology (GIST), Gwangju, Korea
+      institution: GIST, Gwangju, Korea
       year: 2016 - 2023
       description:
         - title: Major in Physics.
@@ -32,19 +32,19 @@
   type: time_table  
   contents:
     - title : Machine Learning Lab
-      institution: Pohang institute of the Science and Technology (POSTECH), Pohang, Korea
+      institution: POSTECH, Pohang, Korea
       year: 2023 - Now
       description:
         - Conducting reserches invovled in Geometrical Deep Learning and AI for science
 
     - title: Lab of Computational Many-body Physics
-      institution: Gwangju Institute of the Science and Technology (GIST), Gwangju, Korea
+      institution: GIST, Gwangju, Korea
       year: 2021-2022
       description:
         - Expolring the critical phenomena of two dimensional anisotropy antiferromagnetic long range Ising model by Monte Carlo simulation.
 
     - title: Statistical Artificial Intelligence Lab
-      institution: Korea Advanced Institute of Science and Technology (KAIST), Daejon, Korea
+      institution: KAIST, Daejon, Korea
       year: 2022
       description:
         - Studied the various techniques of explainable A.I. including LIMES, LRP, CRP, and GRAD-CAM
@@ -54,7 +54,7 @@
       year: 2020 - 2021
 
     - title: Lab of Quantum Field & Gravity theory group
-      institution: Gwangju Institute of the Science and Technology (GIST), Gwangju, Korea
+      institution: GIST, Gwangju, Korea
       year: 2019 - 2020
       description:
         - Participated in a project involved in Deep learning and the AdS/CFT correspondence.
