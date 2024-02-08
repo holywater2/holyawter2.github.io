@@ -15,4 +15,4 @@ nav_order: 2
 </div> -->
 
 ## Preprints and submissions
-1. **Kim,S.**, and Ahn, S. "Gaussian Plane-Wave Neural Operator for Electron Density Estimation" (2023) [arxiv](https://arxiv.org/abs/2402.04278) [PDF](https://arxiv.org/pdf/2402.04278.pdf)
+1. **Kim,S.**, and Ahn, S. "Gaussian Plane-Wave Neural Operator for Electron Density Estimation" (2024) [arxiv](https://arxiv.org/abs/2402.04278) [PDF](https://arxiv.org/pdf/2402.04278.pdf)
