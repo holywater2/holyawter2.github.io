@@ -26,6 +26,8 @@ I am currently a second-year integrated Ph.D. student in the [Aritificial Intell
 
 My research interests include integrating AI into scientific research and using AI to uncover scientific facts. Also I am interested in physical and chemical concepts like solid state physics, simulation dynamics and molecular science, and also mathematical concepts like group theory and geometry. Recently, I am focusing on intergrating [Geometrical Deep Learning](https://geometricdeeplearning.com/) into the molecular science.
 
+\[News🚀\] Recently, one paper, "Gaussian Plane-Wave Neural Operator For Electron Density Estimation," has been accepted to ICML 2024. I'll be attending the conference (July 22-27) in Vienna, Austria. 
+
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
