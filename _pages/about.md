@@ -24,9 +24,12 @@ Hi, I'm Seongsu. Thank you for stopping by! 👋
 
 I am currently a second-year integrated Ph.D. student in the [Aritificial Intelligence department](https://ai.postech.ac.kr/) at Pohang University of Science and Technology (Postech)! I am also a member of [ML lab](https://ml.postech.ac.kr/), where my supervisor is [Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home).
 
-My research interests include integrating AI into scientific research and using AI to uncover scientific facts. Also I am interested in physical and chemical concepts like solid state physics, simulation dynamics and molecular science, and also mathematical concepts like group theory and geometry. Recently, I am focusing on intergrating [Geometrical Deep Learning](https://geometricdeeplearning.com/) into the molecular science.
+My research interests include integrating AI into scientific research and using AI to uncover scientific facts. Also I am interested in physical and chemical concepts like solid state physics, simulation dynamics and molecular science, and also mathematical concepts like group theory and geometry. Recently, I am focusing on generative modeling for materials and ab initio based quantum chemisty such as density functional theroy (DFT) or variational Monte Carlo (VMC).
 
-**\[News🚀\]** *'24. Jul* one paper, "Gaussian Plane-Wave Neural Operator For Electron Density Estimation," has been accepted to ICML 2024.
+<!-- Recently, I am focusing on intergrating [Geometrical Deep Learning](https://geometricdeeplearning.com/) into the molecular science. -->
+
+**\[News🚀\]** *'24. Oct* one paper, ["MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks"](https://arxiv.org/abs/2410.17270), has been accepted to AIDrugX workshop at NIPS 2024.
+**\[News🚀\]** *'24. Jul* one paper, ["Gaussian Plane-Wave Neural Operator For Electron Density Estimation"](https://arxiv.org/abs/2402.04278), has been accepted to ICML 2024.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
