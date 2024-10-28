@@ -28,8 +28,8 @@ My research interests include integrating AI into scientific research and using 
 
 <!-- Recently, I am focusing on intergrating [Geometrical Deep Learning](https://geometricdeeplearning.com/) into the molecular science. -->
 
-**\[News🚀\]** *'24. Oct* one paper, ["MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks"](https://arxiv.org/abs/2410.17270), has been accepted to AIDrugX workshop at NIPS 2024.
-**\[News🚀\]** *'24. Jul* one paper, ["Gaussian Plane-Wave Neural Operator For Electron Density Estimation"](https://arxiv.org/abs/2402.04278), has been accepted to ICML 2024.
+**\[News**🚀 *'24. Oct* **\]** one paper, ["MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks"](https://arxiv.org/abs/2410.17270), has been accepted to AIDrugX workshop at NIPS 2024.
+**\[News**🚀 *'24. Jul* **\]** one paper, ["Gaussian Plane-Wave Neural Operator For Electron Density Estimation"](https://arxiv.org/abs/2402.04278), has been accepted to ICML 2024.
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
