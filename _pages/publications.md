@@ -16,7 +16,7 @@ nav_order: 2
 
 ## Preprints and submissions
 
-\[C\]: Conference, \[W\]: Workshop
+**\[C\]**: Conference, **\[W\]**: Workshop
 
 1. **\[W\] MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks**\\
 Nayoung Kim, **Seongsu Kim** , Minsu Kim, Jinkyu Park, and Sungsoo Ahn\\
