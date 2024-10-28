@@ -24,4 +24,4 @@ Nayoung Kim, **Seongsu Kim** , Minsu Kim, Jinkyu Park, and Sungsoo Ahn\\
 
 1. **\[C\] Gaussian Plane-Wave Neural Operator for Electron Density Estimation**\\
 **Seongsu Kim**, and Sungsoo Ahn\\
-*International Conference on Machine Learning (ICML), 2024*[[arxiv]](https://arxiv.org/abs/2402.04278) [[PDF]](https://arxiv.org/pdf/2402.04278.pdf) [[Code]](https://github.com/seongsukim-ml/GPWNO?tab=readme-ov-file)
+*International Conference on Machine Learning (ICML), 2024* [[arxiv]](https://arxiv.org/abs/2402.04278) [[PDF]](https://arxiv.org/pdf/2402.04278.pdf) [[Code]](https://github.com/seongsukim-ml/GPWNO?tab=readme-ov-file)
