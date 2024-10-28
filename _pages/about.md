@@ -16,7 +16,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Machine Learning Lab** @ <a href="https://ml.postech.ac.kr/">Postech</a>\\
+<!-- **Machine Learning Lab** @ <a href="https://ml.postech.ac.kr/">Postech</a>\\ -->
 **Pricinple Investigator**: [Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home)\\
 **Language**: Korean, English
 
