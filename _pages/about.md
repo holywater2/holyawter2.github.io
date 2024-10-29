@@ -26,7 +26,7 @@ I am currently a second-year integrated Ph.D. student in the [AI department](htt
 
 My research interests include integrating AI into scientific research and using AI to uncover scientific facts. Also, I am interested in physical and chemical concepts like solid state physics, simulation dynamics and molecular science, and also mathematical concepts like group theory and geometry.
 
-Recently, I am focusing on generative modeling for materials and ab initio based quantum chemisty such as density functional theroy (DFT) or variational Monte Carlo (VMC).
+Recently, I am focusing on generative modeling for materials and *ab initio* based quantum chemisty such as density functional theroy (DFT) or variational Monte Carlo (VMC).
 
 I believe that AI will effectively reduce the complexity of calculations in physics and chemistry, especially in areas like multi-objective optimization problems, challenges in establishing ansatzes, modeling interactions and governing equations, and handling intractable computations. I am studying and researching these possibilities.
 
