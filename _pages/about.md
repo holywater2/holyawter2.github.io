@@ -19,6 +19,7 @@ social: true # includes social icons at the bottom of the page
 <!-- **Machine Learning Lab** @ <a href="https://ml.postech.ac.kr/">Postech</a>\\ -->
 **Pricinple Investigator**: [Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215/home)\\
 **Language**: Korean, English
+
 ---
 
 Hi, I'm Seongsu. Thank you for stopping by! 👋 The spelling of my name in Korean is "성수" and it is pronounced as [sʌŋ-su:].

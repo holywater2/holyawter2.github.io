@@ -8,7 +8,6 @@ years: [2024]
 ---
 
 <!-- _pages/publications.md -->
-
 <div class="publications">
 
 {%- for y in page.years %}
@@ -17,12 +16,6 @@ years: [2024]
 {% endfor %}
 
 </div>
-
-<!-- <div class="publications">
-
-{% bibliography %}
-
-</div> -->
 
 <!-- ## Preprints and submissions -->
 <!-- 
