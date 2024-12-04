@@ -3,9 +3,9 @@ layout: page
 title: Neural Wave Function
 description: a project that redirects to another website
 # img: assets/img/7.jpg
-redirect: 241127_Neural_Wave_Function.pdf
-importance: 3
-category: work
+permalink: assets/pdf/241127_Neural_Wave_Function.pdf
+importance: 1
+category: study
 ---
 
 Every project has a beautiful feature showcase page.
